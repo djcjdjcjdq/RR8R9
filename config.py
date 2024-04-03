@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "20763653"))
 
 API_HASH = getenv("API_HASH", "f9f49a1daf7f6d1a7b91e51cfd2027a1")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7196458491:AAEbPbnp2OWZ836-bIrwYcWax4yOqTo2j3A")
+BOT_TOKEN = getenv("BOT_TOKEN", "7196458491:AAF-ms81fkWnf_CGHHFdZh5j2nKF91Nv0Lg")
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "mahdi")
 
